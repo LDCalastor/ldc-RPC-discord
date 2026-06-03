@@ -1,1 +1,13 @@
-
+{
+  "presets": [
+    {
+      "name": "LDC RPC",
+      "author": "Odzigon",
+      "tags": ["rpc", "discord", "ldc", "botting"],
+      "popularity": 100,
+      "created": "2026-06-03",
+      "image": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2ttcGF4amc4czl6ZHczMHd2MmZ4NDdwanM1YXBlODhkZGU1NWJxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif",
+      "code": "LDC1:eyJuYW1lIjoiTERDIiwiY2xpZW50SWQiOiIxMzEzMTgyMTg0NTU0NzU4MTc0IiwiYWN0aXZpdHlUeXBlIjowLCJkZXRhaWxzIjoie3RpbWV9e2RhdGV9Iiwic3RhdGVzIjpbeyJ0ZXh0IjoiT2R6aWdvbiBSUEMiLCJkdXIiOjE1fSx7InRleHQiOiJMREMgQk9UVElORyIsImR1ciI6MTV9LHsidGV4dCI6IkFWSC1MREMiLCJkdXIiOjE1fV0sInRpbWVzdGFtcE1vZGUiOiJub25lIiwidGltZXN0YW1wVmFsdWUiOm51bGwsImxhcmdlSW1hZ2UiOiJodHRwczovL21lZGlhMi5naXBoeS5jb20vbWVkaWEvdjEuWTJsa1BUYzVNR0kzTmpFeFoydHRjR0Y0YW1jNGN6bDZaSGN6TUhkMk1tWjRORGR3YW5OMVlYQmxPRGhrZUdWMU5XSnhPQ1psY0QxMk1WOXBiblJsY201aGJGOW5hV1pmWW5sZmFXUW1ZM1E5Y3cvSWR5QVFKVk4ya1ZQTlVyb2pNL2dpcGh5LmdpZiIsImxhcmdlVGV4dCI6IiIsInNtYWxsSW1hZ2UiOiIiLCJzbWFsbFRleHQiOiIiLCJidXR0b25zIjpbeyJsYWJlbCI6IlBvcnRmb2xpbyIsInVybCI6Imh0dHBzOi8vb2R6aWdvbi5uZXRsaWZ5LmFwcC8ifSx7ImxhYmVsIjoiRGlzY29yZCBMREMgQk9UVElORyIsInVybCI6Imh0dHBzOi8vZGlzY29yZC5nZy9qekNxdVNnMmR4In1dLCJhdXRvRGV0ZWN0Ijp7ImVuYWJsZWQiOnRydWUsInByb2Nlc3NlcyI6W119fQ=="
+    }
+  ]
+}
